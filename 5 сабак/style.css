@@ -1,0 +1,125 @@
+ *{ 
+    box-sizing: border-box; 
+    margin: 0; 
+    padding: 0; 
+} 
+header{ 
+    background-color: #FCDB00; 
+} 
+nav{ 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    padding-top: 20px; 
+} 
+.cantainer{ 
+    width: 1000px; 
+    margin: 0 auto; 
+} 
+.list{ 
+    display: flex; 
+} 
+.list li{ 
+    margin-left: 50px; 
+    list-style: none; 
+} 
+.hero{ 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 70px 0 60px 0; 
+} 
+.hero-text{ 
+    width: 444px; 
+} 
+.text-desc{ 
+    font-weight: 700; 
+    font-size: 20px; 
+    color: #000000; 
+    padding: 36px 0; 
+} 
+.secondP{ 
+    padding-bottom: 30px; 
+} 
+.text4{ 
+    width: 700px; 
+    color: #000000; 
+    height: 40px; 
+    margin-top:20px  
+} 
+.cantainer1{ 
+    /* border: 5px solid black; */ 
+    width: 1000px; 
+    margin: 0 auto; 
+    display: flex; 
+    justify-content: space-between; 
+    margin-top: 30px; 
+} 
+.boxes1{ 
+    border: 2px solid black; 
+    margin: 5px; 
+    display: contents; 
+} 
+.box1{ 
+    border-radius: 30px; 
+    padding: 20px 1px; 
+    margin:5px; 
+    /* border: 2px solid black; */ 
+    background-color: #404040; 
+ 
+} 
+.img{ 
+    display: flex; 
+    width: 100px; 
+    color: #FFFFFF; 
+} 
+.text5{ 
+    margin-top: 40px; 
+    padding-bottom: 30px; 
+    margin-left: 20px;
+    margin-right: 20px;
+} 
+.box2{ 
+    border-radius: 30px; 
+    padding: 20px 1px; 
+    margin: 5px; 
+    /* border: 2px solid #F74C55; */ 
+    background-color: #F74C55; 
+} 
+.text6{ 
+    margin-top:40px ; 
+    padding-bottom: 30px; 
+    margin-left: 20px;
+    margin-right: 20px;
+} 
+.box3{ 
+    border-radius: 15px; 
+    padding: 20px 1px ; 
+    margin: 5px; 
+    /* border: 2px solid #2D5F3B; */ 
+    background-color: #2D5F3B; 
+     
+} 
+.text7{ 
+    margin-top: 40px; 
+    padding-bottom: 30px; 
+    margin-left: 20px;
+    margin-right: 20px;
+} 
+.cantainerY{ 
+    border: 5px solid #404040; 
+    margin-top: 20px; 
+    padding-bottom: 30px; 
+} 
+.css{ 
+    border: 5px solid #404040; 
+    padding-top: 40px; 
+    padding-bottom: 40px; 
+    margin: 0 auto; 
+    text-align: center; 
+    background-color: #404040; 
+ 
+} 
+.h4{ 
+    align-items: center; 
+}
